@@ -25,3 +25,8 @@
 .tabella{
     background-color: lightblue;
 }
+.foot{
+    color: gray;
+    font-weight: bold;
+    display: block;
+}
