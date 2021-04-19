@@ -14,3 +14,14 @@
 .testo{
     background-color: yellow;
 }
+.table{
+    text-align: center;
+    border-collapse: collapse;
+}
+.tab{
+    background-color: blue;
+    
+}
+.tabella{
+    background-color: lightblue;
+}
