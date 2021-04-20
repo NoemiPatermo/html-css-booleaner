@@ -28,7 +28,7 @@
 .foot{
     color: gray;
     font-weight: bold;
-    display: block;
+    display: inline-block;
     img: url(../img/monitor.jpg);
    
 
