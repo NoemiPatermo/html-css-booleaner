@@ -17,19 +17,49 @@
 .table{
     text-align: center;
     border-collapse: collapse;
+    width:100%;
 }
-.tab{
-    background-color: blue;
-    
+thead{
+    background-color:blue;
+}   
+
+ thead th{
+    color: ghostwhite;
+    width: 26%;
 }
+thead th:nth-child(3){
+    width: 50%;
+}
+
 .tabella{
     background-color: lightblue;
 }
-.foot{
-    color: gray;
-    font-weight: bold;
-    display: inline-block;
-    img: url(../img/monitor.jpg);
-   
-
+#rel{
+    font-weight: 700;
+    color: grey;
 }
+.related{
+    display: block;
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+}
+.related-2{
+    display: block;
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+}
+
+.lorem{
+    padding-top: 20px;
+    padding-left: 20px;
+    font-weight: 700;
+    color: ghostwhite;
+}
+
+
+
+
